@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Instructions to get started
+* Create a new folder
+* git clone https://github.com/Hrithik-ui/Alkira_take_home_assignment.git
+* move to Alkira_take_home_assignment.git folder
+* npm install
+* npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
