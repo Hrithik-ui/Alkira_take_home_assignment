@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Instructions to get started
 1) Create a new folder
-2) run git clone https://github.com/Hrithik-ui/Alkira_take_home_assignment.git inside the new folder
-3) move to Alkira_take_home_assignment.git folder
-4) npm install
-5) npm start
+2) run command (inside the new folder) - git clone https://github.com/Hrithik-ui/Alkira_take_home_assignment.git 
+3) run command - cd Alkira_take_home_assignment.git folder
+4) run command - npm install
+5) run command - npm start
 
 ## Available Scripts
 
