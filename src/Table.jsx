@@ -54,8 +54,8 @@ const Tables = () => {
 
     useEffect(() => {
         if (allTeamsData) {
-            var finalresult = allTeamsData.filter((team) => team.name.toLowerCase().includes(searchTeams.toLowerCase()))
-            var result = finalresult.sort((prev, curr) => {
+            let finalresult = allTeamsData.filter((team) => team.name.toLowerCase().includes(searchTeams.toLowerCase()))
+            let result = finalresult.sort((prev, curr) => {
                 if (prev[sortBy].toLowerCase() < curr[sortBy].toLowerCase()) {
                     return -1
                 }
