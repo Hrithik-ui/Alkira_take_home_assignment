@@ -28,7 +28,7 @@ const SpecificRow = ({ teamname, teamid, teamcity, teamabbreviation, teamdivison
             <tr id={teamid} onClick={() => {
                 getGameData()
                 handleShow()
-            }} >
+            }} style={{cursor:"pointer"}}>
 
                 <td style={{ textAlign: "center", backgroundColor: "white" }}>{teamname}</td>
                 <td style={{ textAlign: "center" }}>{teamcity}</td>
